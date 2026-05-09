@@ -1,6 +1,6 @@
-# Hi, I'm Mohammad Al Zaroo 👋
+# Mohammad Al Zaroo 
 
-Computer Engineering Graduate  
+Computer Systems Engineer  
 Flutter Developer  
 IoT & Embedded Systems  
 
@@ -8,19 +8,18 @@ IoT & Embedded Systems
 
 ## About Me
 I am passionate about building mobile applications and smart systems that combine software and hardware.  
-I have experience working with Flutter and ESP32 to develop real-world IoT solutions.
+I have experience working with Flutter and IoT Devices to develop Smart Systems.
 
 ---
 
 ## Skills
-- Flutter & Dart  
-- IoT & Embedded Systems (ESP32, Arduino, Raspberry Pi)  
+- Flutter
+- IoT & Embedded Systems
 - C/C++
 - Python
 - Linux
-- REST APIs  
 - Git & GitHub  
-
+- UI/UX
 ---
 
 ## Projects
@@ -32,15 +31,6 @@ Here are some of my key projects:
 
 ---
 
-## More About Me
-
-- I’m currently working on Flutter and IoT projects  
-- I’m currently learning Machine Learning applications in IoT systems
-- I’m looking to collaborate on Flutter and Embedded Systems projects  
-- Ask me about Flutter, ESP32, IoT systems
-
----
-
 ## Connect with Me
-- LinkedIn: [www.linkedin.com/in/mohammad-al-zaroo-0794223bb](www.linkedin.com/in/mohammad-al-zaroo-0794223bb)
+- LinkedIn: [www.linkedin.com/in/mohammad-al-zaroo](www.linkedin.com/in/mohammad-al-zaroo)
   
