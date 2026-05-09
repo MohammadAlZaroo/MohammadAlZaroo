@@ -32,5 +32,5 @@ Here are some of my key projects:
 ---
 
 ## Connect with Me
-- LinkedIn: [www.linkedin.com/in/mohammad-al-zaroo](www.linkedin.com/in/mohammad-al-zaroo)
+- LinkedIn: [https://www.linkedin.com/in/mohammad-al-zaroo/](https://www.linkedin.com/in/mohammad-al-zaroo/)
   
