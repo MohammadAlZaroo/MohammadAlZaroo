@@ -1,9 +1,6 @@
 # Mohammad Al Zaroo 
 
 Computer Systems Engineer  
-Flutter Developer  
-IoT & Embedded Systems  
-
 ---
 
 ## About Me
