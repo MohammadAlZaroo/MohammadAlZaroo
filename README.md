@@ -4,8 +4,7 @@ Computer Systems Engineer
 ---
 
 ## About Me
----
-A computer Systems Engineer with interest in Hardware Design and Verification
+A computer Systems Engineer with interest in Hardware Design and Verification.
 ---
 
 ## Skills
