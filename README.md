@@ -4,9 +4,7 @@ Computer Systems Engineer
 ---
 
 ## About Me
-I am passionate about building mobile applications and smart systems that combine software and hardware.  
-I have experience working with Flutter and IoT Devices to develop Smart Systems.
-
+A computer Systems Engineer with interest in Hardware Design and Verification
 ---
 
 ## Skills
@@ -14,9 +12,7 @@ I have experience working with Flutter and IoT Devices to develop Smart Systems.
 - IoT & Embedded Systems
 - C/C++
 - Python
-- Linux
 - Git & GitHub  
-- UI/UX
 ---
 
 ## Projects
