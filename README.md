@@ -4,7 +4,7 @@ Computer Systems Engineer
 ---
 
 ## About Me
-#### A computer Systems Engineer with interest in Hardware Design and Verification.
+#### A computer Systems Engineer with interest in IT Services and Hardware Design & Verification.
 ---
 
 ## Skills
@@ -12,7 +12,8 @@ Computer Systems Engineer
 - IoT & Embedded Systems
 - C/C++
 - Python
-- Git & GitHub  
+- Git & GitHub
+- IT Support
 ---
 
 ## Projects
